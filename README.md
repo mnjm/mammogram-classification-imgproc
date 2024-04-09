@@ -1,2 +1,5 @@
-# Mammogram_Classification
-Dataset: MiniMIAS mammograms in .pgm format
+# Mammogram Classification Image Proc
+
+Mammogram Classification using Image processing methods.
+
+Built using Matlab.
